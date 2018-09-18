@@ -1,0 +1,127 @@
+
+		.wrapper{
+			width: 100%;
+			height:820px;
+			
+			margin-left: 0px;
+			margin-top: 0px;
+         background-color:white;
+
+		}
+
+         .header{
+         	width: 100%;
+         	height: 120px;
+         	background-color:yellow;
+
+
+
+         }
+         .logo{
+         	width:12%;
+         	height: 100%;
+         	background-color: red;
+         	float:left;
+         	display: inline;
+         }
+         .sologan{
+         	margin-top: 0px;
+         	margin-left:0px;
+         	width:88%;
+         height:100%; 
+            position: relative;
+         background-image:url("images/images.jpg"); 
+         background-color:yellow;
+         background-repeat: repeat;
+         	float: right;
+            
+         }
+            }
+   .sologan marquee{
+      font: bold;
+      margin-top:10px;
+   
+
+
+   }
+         .manu{margin-top: 2px;
+            margin-bottom: 2px;
+          width:100%;
+          background-color:green;
+         text-align: center;
+         	
+         }
+          li {padding-top: 5px;
+         	padding-bottom: 5px;
+         padding-left: 20px;
+            padding-right: 20px;
+         	text-decoration: none;
+         	display: inline-block;
+         	
+            background-color:blue;
+            color:white ;
+            border-radius: 5px;
+
+            transition:all 2s ease;
+
+            margin: 5px 5px;
+         }
+      li:hover
+      {background: red;
+   cursor:pointer;
+      }
+.container{
+   margin-left: 0px;
+   width: 100%;
+   height: 620px;
+   background-color: gray;
+   
+	}
+
+   .leftside{
+      margin-left: 0px;
+      width: 15%;
+      height:620px;
+      background-color: blue;
+      float: left;
+      text-align: center;
+      position: relative;
+   }
+   .content{
+      margin-top: 0px;
+       margin-left:15%;
+       margin-right: 15%;
+      width: 70%;
+      height:620px;
+      text-align:left;
+      color:blue;
+      background-color:gray;
+   
+      position:absolute;
+
+   }    
+   label{   color: black;
+
+   }
+  
+   .rightside{
+       margin-left: 0px;
+      width: 15%;
+      height:620px;
+      text-align: center;
+      background-color:blue;
+      float:right;
+
+
+   }
+
+
+   .footer{
+      width: 100%;
+      height:50px; ;
+      text-align: center;
+       background-color: brown;
+       display: inline-block;
+   
+
+
